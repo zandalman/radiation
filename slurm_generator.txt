@@ -1,0 +1,10 @@
+module load miniconda; conda activate /gpfs/loomis/project/phys678/conda_envs/phys678; python RTE.py 1
+module load miniconda; conda activate /gpfs/loomis/project/phys678/conda_envs/phys678; python RTE.py 2
+module load miniconda; conda activate /gpfs/loomis/project/phys678/conda_envs/phys678; python RTE.py 3
+module load miniconda; conda activate /gpfs/loomis/project/phys678/conda_envs/phys678; python RTE.py 4
+module load miniconda; conda activate /gpfs/loomis/project/phys678/conda_envs/phys678; python RTE.py 5
+module load miniconda; conda activate /gpfs/loomis/project/phys678/conda_envs/phys678; python RTE.py 6
+module load miniconda; conda activate /gpfs/loomis/project/phys678/conda_envs/phys678; python RTE.py 7
+module load miniconda; conda activate /gpfs/loomis/project/phys678/conda_envs/phys678; python RTE.py 8
+module load miniconda; conda activate /gpfs/loomis/project/phys678/conda_envs/phys678; python RTE.py 9
+module load miniconda; conda activate /gpfs/loomis/project/phys678/conda_envs/phys678; python RTE.py 10
