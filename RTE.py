@@ -371,5 +371,5 @@ if __name__ == '__main__':
 
     grid = Grid(-8, 8, -8, 8, -8, 8, 200) # create grid
     grid.rho[:] = 300 * np.exp(-grid.r) # define density distribution
-    sim = Sim(grid, N=100, do_rayleigh=True, outfile_path=outfile_path, log_path=log_path, albedo=0.9)
-    sim.simulate(max_steps=10, info=1)
+    sim = Sim(grid, N=100000, do_rayleigh=True, outfile_path=outfile_path, log_path=log_path, albedo=0.9)
+    sim.simulate(max_steps=2000, info=1)
